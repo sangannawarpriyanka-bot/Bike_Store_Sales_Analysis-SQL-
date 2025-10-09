@@ -11,11 +11,6 @@ The purpose of this project is to analyze the operations of a bike store using S
 ## 🎯Project Goal:
 The goal of this project is to design and implement a relational database system for a bike store, enabling efficient management of customers, orders, products, and inventory. The project aims to provide insights into sales performance, customer behavior, and product popularity, supporting informed business decisions and improving operational efficiency.
 
---
-## 🎯 Project Goal:
-
-Create a Bike Store Database 🚲🏬 to manage customers 👥, orders 🛒, products 🚴, and inventory 📦, while analyzing sales trends 📊 to make smarter business decisions 💡.
-
 ---
 
 <img width="520" height="226" alt="image" src="https://github.com/user-attachments/assets/8001e661-b3ea-415b-8dc5-efcc9b42385c" />
