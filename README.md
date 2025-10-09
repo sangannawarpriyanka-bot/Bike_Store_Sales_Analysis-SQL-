@@ -3,7 +3,7 @@ The purpose of this project is to analyze the operations of a bike store using S
 
 ---
 
-<img width="820" height="226" alt="image" src="https://github.com/user-attachments/assets/8001e661-b3ea-415b-8dc5-efcc9b42385c" />
+<img width="620" height="226" alt="image" src="https://github.com/user-attachments/assets/8001e661-b3ea-415b-8dc5-efcc9b42385c" />
 
 ## Tables in Database:
 
