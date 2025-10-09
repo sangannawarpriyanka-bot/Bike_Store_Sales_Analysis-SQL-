@@ -1,3 +1,7 @@
+## Bike Store Sales Analysis:
+
+<img width="1536" height="1024" alt="two-wheeler-bike-sale-readme-banner" src="https://github.com/user-attachments/assets/e85db615-8e3b-4b15-810b-8e20523ee014" />
+
 ## Project Overview:
 The purpose of this project is to analyze the operations of a bike store using SQL. The project focuses on extracting key business insights such as total revenue, sales trends, top-selling products, customer behavior, staff performance, and stock levels.
 
