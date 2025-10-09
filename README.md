@@ -2,6 +2,9 @@
 The purpose of this project is to analyze the operations of a bike store using SQL. The project focuses on extracting key business insights such as total revenue, sales trends, top-selling products, customer behavior, staff performance, and stock levels.
 
 ---
+
+<img width="1020" height="426" alt="image" src="https://github.com/user-attachments/assets/8001e661-b3ea-415b-8dc5-efcc9b42385c" />
+
 ## Tables in Database:
 
 | Table Name    | Description                       |
