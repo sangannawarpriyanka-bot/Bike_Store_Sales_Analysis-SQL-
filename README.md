@@ -34,7 +34,7 @@ The purpose of this project is to analyze the operations of a bike store using S
 
 - Stock Management: Track inventory levels by store and brand to avoid shortages or overstock.
 
--Business Decisions: Use sales and stock data to make informed decisions on promotions, staffing, and inventory management.
+- Business Decisions: Use sales and stock data to make informed decisions on promotions, staffing, and inventory management.
 
 ---
 
