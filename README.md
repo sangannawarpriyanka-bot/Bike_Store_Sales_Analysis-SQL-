@@ -1,11 +1,20 @@
-## 🚲 Bike Store Sales Analysis Using SQL
+## 🚲 Bike Store Sales Analysis Using SQL:
 ---
 
 <img width="1536" height="1024" alt="two-wheeler-bike-sale-readme-banner" src="https://github.com/user-attachments/assets/e85db615-8e3b-4b15-810b-8e20523ee014" />
 
-## 📘 Project Overview:
+## 📌 Project Overview:
 
 The purpose of this project is to analyze the operations of a bike store using SQL. The project focuses on extracting key business insights such as total revenue, sales trends, top-selling products, customer behavior, staff performance, and stock levels.
+
+---
+## 🎯Project Goal:
+The goal of this project is to design and implement a relational database system for a bike store, enabling efficient management of customers, orders, products, and inventory. The project aims to provide insights into sales performance, customer behavior, and product popularity, supporting informed business decisions and improving operational efficiency.
+
+--
+## 🎯 Project Goal:
+
+Create a Bike Store Database 🚲🏬 to manage customers 👥, orders 🛒, products 🚴, and inventory 📦, while analyzing sales trends 📊 to make smarter business decisions 💡.
 
 ---
 
@@ -29,7 +38,7 @@ The purpose of this project is to analyze the operations of a bike store using S
 
 ---
 
-## Key Insights:
+## 📊Key Insights:
 
 - 💰 Top Customers: High-value repeat customers identified.
 
@@ -51,7 +60,7 @@ The purpose of this project is to analyze the operations of a bike store using S
 
 ---
 
-## Tools Used:
+## 🛠️Tools Used:
 
 - MySQL Workbench – For creating and managing the database, writing, and executing SQL queries.
 
