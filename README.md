@@ -64,4 +64,3 @@ The purpose of this project is to analyze the operations of a bike store using S
 This analysis provides valuable insights into customer behavior, sales performance, and product demand trends.
 It helps business stakeholders make data-driven decisions to optimize sales strategy and inventory management.
 
-![Bike Store Sales Analysis](two-wheeler-bike-sale-readme-banner.png)
