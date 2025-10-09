@@ -1,8 +1,10 @@
-## Bike Store Sales Analysis:
+## 🚲 Bike Store Sales Analysis Using SQL
+---
 
 <img width="1536" height="1024" alt="two-wheeler-bike-sale-readme-banner" src="https://github.com/user-attachments/assets/e85db615-8e3b-4b15-810b-8e20523ee014" />
 
-## Project Overview:
+## 📘 Project Overview:
+
 The purpose of this project is to analyze the operations of a bike store using SQL. The project focuses on extracting key business insights such as total revenue, sales trends, top-selling products, customer behavior, staff performance, and stock levels.
 
 ---
@@ -28,6 +30,16 @@ The purpose of this project is to analyze the operations of a bike store using S
 ---
 
 ## Key Insights:
+
+💰 Top Spending Customers: Identified high-value repeat customers
+
+🚴 Best-Selling Category: Mountain bikes lead sales across most stores
+
+🌍 Top Performing Region: Urban stores show higher sales volume
+
+📅 Peak Sales Period: Q3 shows the highest order volume
+
+👩‍💼 Top Sales Staff: Salesperson performance ranked by revenue contribution
 
 - Top Stores: Identify which stores generate the highest revenue.
 
@@ -55,14 +67,9 @@ The purpose of this project is to analyze the operations of a bike store using S
 
 ---
 
-## Conclusion:
+## 🎯 Conclusion:
 
-- Top Stores: Identify the best-performing stores.
+This analysis provides valuable insights into customer behavior, sales performance, and product demand trends.
+It helps business stakeholders make data-driven decisions to optimize sales strategy and inventory management.
 
-- Top Products & Categories: Find customer favorites and profitable categories.
-
-- Top Customers & Staff: Recognize loyal customers and high-performing staff.
-
-- Stock Management: Track inventory levels by store and brand.
-
-- Monthly Trends: Plan promotions for peak or low months.
+![Bike Store Sales Analysis](two-wheeler-bike-sale-readme-banner.png)
