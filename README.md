@@ -147,6 +147,9 @@ This analysis provides valuable insights into customer behavior, sales performan
 It helps business stakeholders make data-driven decisions to optimize sales strategy and inventory management.
 
 ---
+
+## Queries and Visualizations:
+
 ## List of all customers with emails:
 
 
