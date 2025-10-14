@@ -147,3 +147,54 @@ This analysis provides valuable insights into customer behavior, sales performan
 It helps business stakeholders make data-driven decisions to optimize sales strategy and inventory management.
 
 ---
+## List of all customers with emails:
+
+
+## TOTAL SALES & REVENUE:
+
+# 1] Total sales per store:
+
+# 2] Total revenue from all orders
+
+# 3] Revenue by store
+
+# 4] Revenue by product
+
+# 5] Revenue by category
+
+# 6] Revenue by staff
+
+##  TOP PRODUCTS & CUSTOMERS:
+# 1] Top 5 best-selling products (by quantity)
+
+# 2] Top 5 customers by total spending
+
+## SALES TRENDS:
+# 1]  Monthly sales trend:
+
+# 2] Yearly sales trend:
+
+## INVENTORY vs SOLD:
+## Product sold vs in stock:
+
+## Customer Categories (Big, Regular, Low Spenders):
+
+## Store & Staff Performance:
+## Total revenue per store:
+
+## Staff performance per store:
+
+##  BRAND & CATEGORIES ANALYSIS:
+# 1] Revenue by brand:
+
+# 2] Total stock by brand:
+
+## CUSTOMER INSIGHTS:
+# 1] Customers from New York:
+
+# 2] Repeat customers (more than 1 order):
+
+
+
+
+
