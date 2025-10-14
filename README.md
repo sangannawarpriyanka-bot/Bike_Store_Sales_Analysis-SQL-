@@ -33,6 +33,59 @@ The goal of this project is to design and implement a relational database system
 
 ---
 
+## 📊 Project Features & Analysis:
+---
+
+1️⃣ Customer Insights:
+
+- List all customers & emails ✉️
+
+- Merge first & last names → FULL_NAME 👤
+
+- Identify new vs returning customers
+
+- Categorize customers: Big, Regular, Low Spenders 💰
+
+- Identify VIP/high-value customers 🏆
+
+2️⃣ Sales & Revenue Analysis:
+
+- Total revenue across all stores 💵
+
+- Revenue by store, product, category, brand
+
+- Revenue per staff member 👩‍💼
+
+- Monthly & yearly sales trends 📅
+
+- Top-selling products & brands 🏅
+
+3️⃣ Inventory Management:
+
+- Total stock per store and brand 📦
+
+- Compare sold vs in-stock quantities
+
+- Identify underperforming stores or overstocked products ⚠️
+
+4️⃣ Product & Category Insights:
+
+- List top-priced products 💲
+
+- Products with the most orders 🛒
+
+- Revenue by product categories
+
+- Top 10 most sold products
+
+5️⃣ Staff Performance:
+
+- Total revenue generated per staff member
+
+- Identify top performers per store ⭐
+
+- Staff contribution to overall store revenue
+- 
 ## 📊Key Insights:
 
 - 💰 Top Customers: High-value repeat customers identified.
@@ -68,3 +121,34 @@ The goal of this project is to design and implement a relational database system
 This analysis provides valuable insights into customer behavior, sales performance, and product demand trends.
 It helps business stakeholders make data-driven decisions to optimize sales strategy and inventory management.
 
+
+
+
+## 📖 Project Overview:
+
+This project analyzes a Bike Store relational database using MySQL to uncover insights about:
+
+- Customers
+
+- Orders & sales
+
+- Products & categories
+
+- Brands & inventory
+
+- Staff performance
+
+-- Goal: Provide actionable insights for improving sales, stock management, and marketing strategies.
+
+---
+ ## 📌 Key Insights:
+
+- Mountain bikes = top-selling category 🚵
+
+- New York = highest customer concentration 🗽
+
+- Top 5 products & brands generate most revenue 💰
+
+- Staff performance varies by store
+
+- Underperforming stores identified for promotions
