@@ -3,13 +3,27 @@
 
 <img width="1536" height="1024" alt="two-wheeler-bike-sale-readme-banner" src="https://github.com/user-attachments/assets/e85db615-8e3b-4b15-810b-8e20523ee014" />
 
-## 📌 Project Overview:
+## 📖 Project Overview:
 
 The purpose of this project is to analyze the operations of a bike store using SQL. The project focuses on extracting key business insights such as total revenue, sales trends, top-selling products, customer behavior, staff performance, and stock levels.
 
 ---
 ## 🎯Project Goal:
 The goal of this project is to design and implement a relational database system for a bike store, enabling efficient management of customers, orders, products, and inventory. The project aims to provide insights into sales performance, customer behavior, and product popularity, supporting informed business decisions and improving operational efficiency.
+This project analyzes a Bike Store relational database using MySQL to uncover insights about:
+
+- Customers
+
+- Orders & sales
+
+- Products & categories
+
+- Brands & inventory
+
+- Staff performance
+
+- Goal: Provide actionable insights for improving sales, stock management, and marketing strategies.
+
 
 ---
 
@@ -32,6 +46,17 @@ The goal of this project is to design and implement a relational database system
 | `stores`      | Store details                     |
 
 ---
+ ## 📌 Key Insights:
+
+- Mountain bikes = top-selling category 🚵
+
+- New York = highest customer concentration 🗽
+
+- Top 5 products & brands generate most revenue 💰
+
+- Staff performance varies by store
+
+- Underperforming stores identified for promotions
 
 ## 📊 Project Features & Analysis:
 ---
@@ -121,34 +146,4 @@ The goal of this project is to design and implement a relational database system
 This analysis provides valuable insights into customer behavior, sales performance, and product demand trends.
 It helps business stakeholders make data-driven decisions to optimize sales strategy and inventory management.
 
-
-
-
-## 📖 Project Overview:
-
-This project analyzes a Bike Store relational database using MySQL to uncover insights about:
-
-- Customers
-
-- Orders & sales
-
-- Products & categories
-
-- Brands & inventory
-
-- Staff performance
-
--- Goal: Provide actionable insights for improving sales, stock management, and marketing strategies.
-
 ---
- ## 📌 Key Insights:
-
-- Mountain bikes = top-selling category 🚵
-
-- New York = highest customer concentration 🗽
-
-- Top 5 products & brands generate most revenue 💰
-
-- Staff performance varies by store
-
-- Underperforming stores identified for promotions
