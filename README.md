@@ -157,7 +157,7 @@ It helps business stakeholders make data-driven decisions to optimize sales stra
 ## TOTAL SALES & REVENUE:
 
  1] Total sales per store:
-<img width="212" height="150" alt="image" src="https://github.com/user-attachments/assets/6abf063b-123d-4898-ba00-346e186a084f" />
+<img width="192" height="150" alt="image" src="https://github.com/user-attachments/assets/6abf063b-123d-4898-ba00-346e186a084f" />
 
  2] Total revenue from all orders
 <img width="212" height="150" alt="image" src="https://github.com/user-attachments/assets/c6e06e1d-a735-4798-a0bc-fc86286a3006" />
