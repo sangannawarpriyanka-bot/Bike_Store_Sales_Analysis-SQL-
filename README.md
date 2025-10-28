@@ -205,41 +205,41 @@ It helps business stakeholders make data-driven decisions to optimize sales stra
 
 ## 5] INVENTORY vs SOLD(Product sold vs in stock):
 
-<img width="423" height="290" alt="image" src="https://github.com/user-attachments/assets/125da796-601c-449e-86c1-5f7fe7d8287c" />
+<img width="523" height="390" alt="image" src="https://github.com/user-attachments/assets/125da796-601c-449e-86c1-5f7fe7d8287c" />
 
 ## 6] Customer Categories (Big, Regular, Low Spenders):
 
-<img width="338" height="290" alt="image" src="https://github.com/user-attachments/assets/fe2e5b5e-d5d1-4144-8582-dfa0a8bfcf9f" />
+<img width="438" height="390" alt="image" src="https://github.com/user-attachments/assets/fe2e5b5e-d5d1-4144-8582-dfa0a8bfcf9f" />
 
 ## 7] Store & Staff Performance:
 
 1] Total revenue per store:
 
-<img width="232" height="430" alt="image" src="https://github.com/user-attachments/assets/c306ee00-ba15-4e52-ac54-64080aa1b8b0" />
+<img width="332" height="530" alt="image" src="https://github.com/user-attachments/assets/c306ee00-ba15-4e52-ac54-64080aa1b8b0" />
 
 2] Staff performance per store:
 
-<img width="232" height="230" alt="image" src="https://github.com/user-attachments/assets/b4e808be-5524-4121-b152-8257448afbce" />
+<img width="332" height="330" alt="image" src="https://github.com/user-attachments/assets/b4e808be-5524-4121-b152-8257448afbce" />
 
 ##  8] BRAND & CATEGORIES ANALYSIS:
 
  1] Revenue by brand:
  
-<img width="196" height="135" alt="image" src="https://github.com/user-attachments/assets/290b898f-90de-4e66-8e27-a9e7642fbcd4" />
+<img width="296" height="235" alt="image" src="https://github.com/user-attachments/assets/290b898f-90de-4e66-8e27-a9e7642fbcd4" />
 
  2] Total stock by brand:
  
-<img width="195" height="134" alt="image" src="https://github.com/user-attachments/assets/655792f2-e87f-4224-8bb1-7eead59d670c" />
+<img width="295" height="234" alt="image" src="https://github.com/user-attachments/assets/655792f2-e87f-4224-8bb1-7eead59d670c" />
 
 ## 9] CUSTOMER INSIGHTS:
 
  1] Customers from New York:
  
-<img width="192" height="150" alt="image" src="https://github.com/user-attachments/assets/623a02c6-9312-4561-8c90-600f87a5d0ae" />
+<img width="292" height="250" alt="image" src="https://github.com/user-attachments/assets/623a02c6-9312-4561-8c90-600f87a5d0ae" />
 
  2] Repeat customers (more than 1 order):
  
-<img width="192" height="151" alt="image" src="https://github.com/user-attachments/assets/95eb0c48-2570-40fc-b3b7-984ce4d2dd96" />
+<img width="292" height="251" alt="image" src="https://github.com/user-attachments/assets/95eb0c48-2570-40fc-b3b7-984ce4d2dd96" />
 
 ---
 
