@@ -110,7 +110,7 @@ This project analyzes a Bike Store relational database using MySQL to uncover in
 - Identify top performers per store ⭐
 
 - Staff contribution to overall store revenue
-- 
+
 ## 📊Key Insights:
 
 - 💰 Top Customers: High-value repeat customers identified.
