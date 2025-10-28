@@ -157,7 +157,7 @@ It helps business stakeholders make data-driven decisions to optimize sales stra
 
 <img width="275" height="196" alt="image" src="https://github.com/user-attachments/assets/77f51b12-3064-4962-a246-c1a3279c8c08" />
 
-## TOTAL SALES & REVENUE:
+## 2] TOTAL SALES & REVENUE:
 
  1] Total sales per store:
  
@@ -183,7 +183,7 @@ It helps business stakeholders make data-driven decisions to optimize sales stra
  
 <img width="256" height="151" alt="image" src="https://github.com/user-attachments/assets/d3d1d469-ead2-4ea6-85ff-8bc837388e68" />
 
-##  TOP PRODUCTS & CUSTOMERS:
+##  3] TOP PRODUCTS & CUSTOMERS:
 
  1] Top 5 best-selling products (by quantity):
  
@@ -193,7 +193,7 @@ It helps business stakeholders make data-driven decisions to optimize sales stra
  
 <img width="254" height="151" alt="image" src="https://github.com/user-attachments/assets/a9184ab1-9097-4ff3-a897-96e06d63a81c" />
 
-## SALES TRENDS:
+## 4] SALES TRENDS:
 
  1]  Monthly sales trend:
  
@@ -203,15 +203,15 @@ It helps business stakeholders make data-driven decisions to optimize sales stra
  
 <img width="198" height="131" alt="image" src="https://github.com/user-attachments/assets/04736668-0f28-4cc2-8f2e-e96c4b07d5e8" />
 
-## INVENTORY vs SOLD(Product sold vs in stock):
+## 5] INVENTORY vs SOLD(Product sold vs in stock):
 
 <img width="323" height="190" alt="image" src="https://github.com/user-attachments/assets/125da796-601c-449e-86c1-5f7fe7d8287c" />
 
-## Customer Categories (Big, Regular, Low Spenders):
+## 6] Customer Categories (Big, Regular, Low Spenders):
 
 <img width="238" height="190" alt="image" src="https://github.com/user-attachments/assets/fe2e5b5e-d5d1-4144-8582-dfa0a8bfcf9f" />
 
-## Store & Staff Performance:
+## 7] Store & Staff Performance:
 
 1] Total revenue per store:
 
@@ -221,7 +221,7 @@ It helps business stakeholders make data-driven decisions to optimize sales stra
 
 <img width="232" height="230" alt="image" src="https://github.com/user-attachments/assets/b4e808be-5524-4121-b152-8257448afbce" />
 
-##  BRAND & CATEGORIES ANALYSIS:
+##  8] BRAND & CATEGORIES ANALYSIS:
 
  1] Revenue by brand:
  
@@ -231,7 +231,7 @@ It helps business stakeholders make data-driven decisions to optimize sales stra
  
 <img width="195" height="134" alt="image" src="https://github.com/user-attachments/assets/655792f2-e87f-4224-8bb1-7eead59d670c" />
 
-## CUSTOMER INSIGHTS:
+## 9] CUSTOMER INSIGHTS:
 
  1] Customers from New York:
  
