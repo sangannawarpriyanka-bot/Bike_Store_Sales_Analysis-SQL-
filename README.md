@@ -176,17 +176,17 @@ It helps business stakeholders make data-driven decisions to optimize sales stra
 
 ##  TOP PRODUCTS & CUSTOMERS:
  1] Top 5 best-selling products (by quantity)
-<img width="244" height="86" alt="image" src="https://github.com/user-attachments/assets/378bff5a-bd36-4637-9284-b36839dc6a06" />
+<img width="254" height="151" alt="image" src="https://github.com/user-attachments/assets/378bff5a-bd36-4637-9284-b36839dc6a06" />
 
  2] Top 5 customers by total spending
-<img width="154" height="83" alt="image" src="https://github.com/user-attachments/assets/a9184ab1-9097-4ff3-a897-96e06d63a81c" />
+<img width="254" height="151" alt="image" src="https://github.com/user-attachments/assets/a9184ab1-9097-4ff3-a897-96e06d63a81c" />
 
 ## SALES TRENDS:
  1]  Monthly sales trend:
 <img width="122" height="131" alt="image" src="https://github.com/user-attachments/assets/99233041-1093-48b4-8bcf-f76b6e7dc9a7" />
 
  2] Yearly sales trend:
-<img width="119" height="61" alt="image" src="https://github.com/user-attachments/assets/04736668-0f28-4cc2-8f2e-e96c4b07d5e8" />
+<img width="119" height="90" alt="image" src="https://github.com/user-attachments/assets/04736668-0f28-4cc2-8f2e-e96c4b07d5e8" />
 
 ## INVENTORY vs SOLD:
 # Product sold vs in stock:
