@@ -160,19 +160,19 @@ It helps business stakeholders make data-driven decisions to optimize sales stra
 <img width="192" height="150" alt="image" src="https://github.com/user-attachments/assets/6abf063b-123d-4898-ba00-346e186a084f" />
 
  2] Total revenue from all orders
-<img width="212" height="150" alt="image" src="https://github.com/user-attachments/assets/c6e06e1d-a735-4798-a0bc-fc86286a3006" />
+<img width="192" height="150" alt="image" src="https://github.com/user-attachments/assets/c6e06e1d-a735-4798-a0bc-fc86286a3006" />
 
  3] Revenue by store
 <img width="256" height="160" alt="image" src="https://github.com/user-attachments/assets/29bfeccf-97c9-408f-a315-1ed5943f213b" />
 
  4] Revenue by product
-<img width="269" height="131" alt="image" src="https://github.com/user-attachments/assets/5d9a10b0-9b2f-4cba-9d56-ef1b9aa04b28" />
+<img width="269" height="160" alt="image" src="https://github.com/user-attachments/assets/5d9a10b0-9b2f-4cba-9d56-ef1b9aa04b28" />
 
  5] Revenue by category
-<img width="158" height="110" alt="image" src="https://github.com/user-attachments/assets/e6aa44b4-85c3-40a8-bd01-765a556115ac" />
+<img width="268" height="150" alt="image" src="https://github.com/user-attachments/assets/e6aa44b4-85c3-40a8-bd01-765a556115ac" />
 
  6] Revenue by staff
-<img width="156" height="101" alt="image" src="https://github.com/user-attachments/assets/d3d1d469-ead2-4ea6-85ff-8bc837388e68" />
+<img width="256" height="151" alt="image" src="https://github.com/user-attachments/assets/d3d1d469-ead2-4ea6-85ff-8bc837388e68" />
 
 ##  TOP PRODUCTS & CUSTOMERS:
  1] Top 5 best-selling products (by quantity)
