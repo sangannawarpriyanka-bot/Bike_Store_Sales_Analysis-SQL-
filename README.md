@@ -161,55 +161,55 @@ It helps business stakeholders make data-driven decisions to optimize sales stra
 
  1] Total sales per store:
  
-<img width="192" height="150" alt="image" src="https://github.com/user-attachments/assets/6abf063b-123d-4898-ba00-346e186a084f" />
+<img width="292" height="250" alt="image" src="https://github.com/user-attachments/assets/6abf063b-123d-4898-ba00-346e186a084f" />
 
  2] Total revenue from all orders:
  
-<img width="192" height="150" alt="image" src="https://github.com/user-attachments/assets/c6e06e1d-a735-4798-a0bc-fc86286a3006" />
+<img width="292" height="250" alt="image" src="https://github.com/user-attachments/assets/c6e06e1d-a735-4798-a0bc-fc86286a3006" />
 
  3] Revenue by store:
  
-<img width="256" height="160" alt="image" src="https://github.com/user-attachments/assets/29bfeccf-97c9-408f-a315-1ed5943f213b" />
+<img width="356" height="260" alt="image" src="https://github.com/user-attachments/assets/29bfeccf-97c9-408f-a315-1ed5943f213b" />
 
  4] Revenue by product:
  
-<img width="269" height="160" alt="image" src="https://github.com/user-attachments/assets/5d9a10b0-9b2f-4cba-9d56-ef1b9aa04b28" />
+<img width="369" height="260" alt="image" src="https://github.com/user-attachments/assets/5d9a10b0-9b2f-4cba-9d56-ef1b9aa04b28" />
 
  5] Revenue by category:
  
-<img width="268" height="150" alt="image" src="https://github.com/user-attachments/assets/e6aa44b4-85c3-40a8-bd01-765a556115ac" />
+<img width="368" height="250" alt="image" src="https://github.com/user-attachments/assets/e6aa44b4-85c3-40a8-bd01-765a556115ac" />
 
  6] Revenue by staff:
  
-<img width="256" height="151" alt="image" src="https://github.com/user-attachments/assets/d3d1d469-ead2-4ea6-85ff-8bc837388e68" />
+<img width="356" height="251" alt="image" src="https://github.com/user-attachments/assets/d3d1d469-ead2-4ea6-85ff-8bc837388e68" />
 
 ##  3] TOP PRODUCTS & CUSTOMERS:
 
  1] Top 5 best-selling products (by quantity):
  
-<img width="254" height="151" alt="image" src="https://github.com/user-attachments/assets/378bff5a-bd36-4637-9284-b36839dc6a06" />
+<img width="354" height="251" alt="image" src="https://github.com/user-attachments/assets/378bff5a-bd36-4637-9284-b36839dc6a06" />
 
  2] Top 5 customers by total spending:
  
-<img width="254" height="151" alt="image" src="https://github.com/user-attachments/assets/a9184ab1-9097-4ff3-a897-96e06d63a81c" />
+<img width="354" height="251" alt="image" src="https://github.com/user-attachments/assets/a9184ab1-9097-4ff3-a897-96e06d63a81c" />
 
 ## 4] SALES TRENDS:
 
  1]  Monthly sales trend:
  
-<img width="198" height="131" alt="image" src="https://github.com/user-attachments/assets/99233041-1093-48b4-8bcf-f76b6e7dc9a7" />
+<img width="298" height="231" alt="image" src="https://github.com/user-attachments/assets/99233041-1093-48b4-8bcf-f76b6e7dc9a7" />
 
  2] Yearly sales trend:
  
-<img width="198" height="131" alt="image" src="https://github.com/user-attachments/assets/04736668-0f28-4cc2-8f2e-e96c4b07d5e8" />
+<img width="298" height="231" alt="image" src="https://github.com/user-attachments/assets/04736668-0f28-4cc2-8f2e-e96c4b07d5e8" />
 
 ## 5] INVENTORY vs SOLD(Product sold vs in stock):
 
-<img width="323" height="190" alt="image" src="https://github.com/user-attachments/assets/125da796-601c-449e-86c1-5f7fe7d8287c" />
+<img width="423" height="290" alt="image" src="https://github.com/user-attachments/assets/125da796-601c-449e-86c1-5f7fe7d8287c" />
 
 ## 6] Customer Categories (Big, Regular, Low Spenders):
 
-<img width="238" height="190" alt="image" src="https://github.com/user-attachments/assets/fe2e5b5e-d5d1-4144-8582-dfa0a8bfcf9f" />
+<img width="338" height="290" alt="image" src="https://github.com/user-attachments/assets/fe2e5b5e-d5d1-4144-8582-dfa0a8bfcf9f" />
 
 ## 7] Store & Staff Performance:
 
