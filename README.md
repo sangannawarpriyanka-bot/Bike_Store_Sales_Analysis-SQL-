@@ -111,6 +111,8 @@ This project analyzes a Bike Store relational database using MySQL to uncover in
 
 - Staff contribution to overall store revenue
 
+---
+
 ## 📊Key Insights:
 
 - 💰 Top Customers: High-value repeat customers identified.
@@ -151,7 +153,7 @@ It helps business stakeholders make data-driven decisions to optimize sales stra
 ## Queries and Visualizations:
 ---
 
-## List of all customers with emails:
+## 1] List of all customers with emails:
 
 <img width="275" height="196" alt="image" src="https://github.com/user-attachments/assets/77f51b12-3064-4962-a246-c1a3279c8c08" />
 
