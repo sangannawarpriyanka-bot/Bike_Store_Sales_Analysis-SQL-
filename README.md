@@ -152,7 +152,7 @@ It helps business stakeholders make data-driven decisions to optimize sales stra
 ---
 
 ## List of all customers with emails:
-<img width="235" height="136" alt="image" src="https://github.com/user-attachments/assets/77f51b12-3064-4962-a246-c1a3279c8c08" />
+<img width="275" height="196" alt="image" src="https://github.com/user-attachments/assets/77f51b12-3064-4962-a246-c1a3279c8c08" />
 
 ## TOTAL SALES & REVENUE:
 
