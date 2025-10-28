@@ -195,40 +195,39 @@ It helps business stakeholders make data-driven decisions to optimize sales stra
 
  1]  Monthly sales trend:
  
-<img width="122" height="131" alt="image" src="https://github.com/user-attachments/assets/99233041-1093-48b4-8bcf-f76b6e7dc9a7" />
+<img width="198" height="131" alt="image" src="https://github.com/user-attachments/assets/99233041-1093-48b4-8bcf-f76b6e7dc9a7" />
 
  2] Yearly sales trend:
  
-<img width="119" height="90" alt="image" src="https://github.com/user-attachments/assets/04736668-0f28-4cc2-8f2e-e96c4b07d5e8" />
+<img width="198" height="131" alt="image" src="https://github.com/user-attachments/assets/04736668-0f28-4cc2-8f2e-e96c4b07d5e8" />
 
-## INVENTORY vs SOLD:
-# Product sold vs in stock:
+## INVENTORY vs SOLD(Product sold vs in stock):
 
-<img width="323" height="134" alt="image" src="https://github.com/user-attachments/assets/125da796-601c-449e-86c1-5f7fe7d8287c" />
+<img width="323" height="190" alt="image" src="https://github.com/user-attachments/assets/125da796-601c-449e-86c1-5f7fe7d8287c" />
 
 ## Customer Categories (Big, Regular, Low Spenders):
 
-<img width="238" height="135" alt="image" src="https://github.com/user-attachments/assets/fe2e5b5e-d5d1-4144-8582-dfa0a8bfcf9f" />
+<img width="238" height="190" alt="image" src="https://github.com/user-attachments/assets/fe2e5b5e-d5d1-4144-8582-dfa0a8bfcf9f" />
 
 ## Store & Staff Performance:
 
 1] Total revenue per store:
 
-<img width="232" height="150" alt="image" src="https://github.com/user-attachments/assets/c306ee00-ba15-4e52-ac54-64080aa1b8b0" />
+<img width="232" height="189" alt="image" src="https://github.com/user-attachments/assets/c306ee00-ba15-4e52-ac54-64080aa1b8b0" />
 
 2] Staff performance per store:
 
-<img width="232" height="150" alt="image" src="https://github.com/user-attachments/assets/b4e808be-5524-4121-b152-8257448afbce" />
+<img width="232" height="189" alt="image" src="https://github.com/user-attachments/assets/b4e808be-5524-4121-b152-8257448afbce" />
 
 ##  BRAND & CATEGORIES ANALYSIS:
 
  1] Revenue by brand:
  
-<img width="146" height="135" alt="image" src="https://github.com/user-attachments/assets/290b898f-90de-4e66-8e27-a9e7642fbcd4" />
+<img width="196" height="135" alt="image" src="https://github.com/user-attachments/assets/290b898f-90de-4e66-8e27-a9e7642fbcd4" />
 
  2] Total stock by brand:
  
-<img width="135" height="134" alt="image" src="https://github.com/user-attachments/assets/655792f2-e87f-4224-8bb1-7eead59d670c" />
+<img width="195" height="134" alt="image" src="https://github.com/user-attachments/assets/655792f2-e87f-4224-8bb1-7eead59d670c" />
 
 ## CUSTOMER INSIGHTS:
 
