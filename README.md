@@ -152,69 +152,93 @@ It helps business stakeholders make data-driven decisions to optimize sales stra
 ---
 
 ## List of all customers with emails:
+
 <img width="275" height="196" alt="image" src="https://github.com/user-attachments/assets/77f51b12-3064-4962-a246-c1a3279c8c08" />
 
 ## TOTAL SALES & REVENUE:
 
  1] Total sales per store:
+ 
 <img width="192" height="150" alt="image" src="https://github.com/user-attachments/assets/6abf063b-123d-4898-ba00-346e186a084f" />
 
- 2] Total revenue from all orders
+ 2] Total revenue from all orders:
+ 
 <img width="192" height="150" alt="image" src="https://github.com/user-attachments/assets/c6e06e1d-a735-4798-a0bc-fc86286a3006" />
 
- 3] Revenue by store
+ 3] Revenue by store:
+ 
 <img width="256" height="160" alt="image" src="https://github.com/user-attachments/assets/29bfeccf-97c9-408f-a315-1ed5943f213b" />
 
- 4] Revenue by product
+ 4] Revenue by product:
+ 
 <img width="269" height="160" alt="image" src="https://github.com/user-attachments/assets/5d9a10b0-9b2f-4cba-9d56-ef1b9aa04b28" />
 
- 5] Revenue by category
+ 5] Revenue by category:
+ 
 <img width="268" height="150" alt="image" src="https://github.com/user-attachments/assets/e6aa44b4-85c3-40a8-bd01-765a556115ac" />
 
- 6] Revenue by staff
+ 6] Revenue by staff:
+ 
 <img width="256" height="151" alt="image" src="https://github.com/user-attachments/assets/d3d1d469-ead2-4ea6-85ff-8bc837388e68" />
 
 ##  TOP PRODUCTS & CUSTOMERS:
- 1] Top 5 best-selling products (by quantity)
+
+ 1] Top 5 best-selling products (by quantity):
+ 
 <img width="254" height="151" alt="image" src="https://github.com/user-attachments/assets/378bff5a-bd36-4637-9284-b36839dc6a06" />
 
- 2] Top 5 customers by total spending
+ 2] Top 5 customers by total spending:
+ 
 <img width="254" height="151" alt="image" src="https://github.com/user-attachments/assets/a9184ab1-9097-4ff3-a897-96e06d63a81c" />
 
 ## SALES TRENDS:
+
  1]  Monthly sales trend:
+ 
 <img width="122" height="131" alt="image" src="https://github.com/user-attachments/assets/99233041-1093-48b4-8bcf-f76b6e7dc9a7" />
 
  2] Yearly sales trend:
+ 
 <img width="119" height="90" alt="image" src="https://github.com/user-attachments/assets/04736668-0f28-4cc2-8f2e-e96c4b07d5e8" />
 
 ## INVENTORY vs SOLD:
 # Product sold vs in stock:
+
 <img width="323" height="134" alt="image" src="https://github.com/user-attachments/assets/125da796-601c-449e-86c1-5f7fe7d8287c" />
 
 ## Customer Categories (Big, Regular, Low Spenders):
+
 <img width="238" height="135" alt="image" src="https://github.com/user-attachments/assets/fe2e5b5e-d5d1-4144-8582-dfa0a8bfcf9f" />
 
 ## Store & Staff Performance:
+
 1] Total revenue per store:
-<img width="289" height="62" alt="image" src="https://github.com/user-attachments/assets/c306ee00-ba15-4e52-ac54-64080aa1b8b0" />
+
+<img width="232" height="150" alt="image" src="https://github.com/user-attachments/assets/c306ee00-ba15-4e52-ac54-64080aa1b8b0" />
 
 2] Staff performance per store:
-<img width="232" height="97" alt="image" src="https://github.com/user-attachments/assets/b4e808be-5524-4121-b152-8257448afbce" />
+
+<img width="232" height="150" alt="image" src="https://github.com/user-attachments/assets/b4e808be-5524-4121-b152-8257448afbce" />
 
 ##  BRAND & CATEGORIES ANALYSIS:
+
  1] Revenue by brand:
+ 
 <img width="146" height="135" alt="image" src="https://github.com/user-attachments/assets/290b898f-90de-4e66-8e27-a9e7642fbcd4" />
 
  2] Total stock by brand:
+ 
 <img width="135" height="134" alt="image" src="https://github.com/user-attachments/assets/655792f2-e87f-4224-8bb1-7eead59d670c" />
 
 ## CUSTOMER INSIGHTS:
+
  1] Customers from New York:
-<img width="169" height="113" alt="image" src="https://github.com/user-attachments/assets/623a02c6-9312-4561-8c90-600f87a5d0ae" />
+ 
+<img width="192" height="150" alt="image" src="https://github.com/user-attachments/assets/623a02c6-9312-4561-8c90-600f87a5d0ae" />
 
  2] Repeat customers (more than 1 order):
-<img width="120" height="41" alt="image" src="https://github.com/user-attachments/assets/95eb0c48-2570-40fc-b3b7-984ce4d2dd96" />
+ 
+<img width="192" height="151" alt="image" src="https://github.com/user-attachments/assets/95eb0c48-2570-40fc-b3b7-984ce4d2dd96" />
 
 ---
 
