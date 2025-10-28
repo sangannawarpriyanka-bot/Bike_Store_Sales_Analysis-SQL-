@@ -215,11 +215,11 @@ It helps business stakeholders make data-driven decisions to optimize sales stra
 
 1] Total revenue per store:
 
-<img width="332" height="530" alt="image" src="https://github.com/user-attachments/assets/c306ee00-ba15-4e52-ac54-64080aa1b8b0" />
+<img width="532" height="430" alt="image" src="https://github.com/user-attachments/assets/c306ee00-ba15-4e52-ac54-64080aa1b8b0" />
 
 2] Staff performance per store:
 
-<img width="332" height="330" alt="image" src="https://github.com/user-attachments/assets/b4e808be-5524-4121-b152-8257448afbce" />
+<img width="432" height="430" alt="image" src="https://github.com/user-attachments/assets/b4e808be-5524-4121-b152-8257448afbce" />
 
 ##  8] BRAND & CATEGORIES ANALYSIS:
 
